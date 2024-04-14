@@ -15,4 +15,4 @@
 **tf2_object_detection2.ipynb.json**: TensorFlow 2를 사용한 객체 탐지 작업에 관련된 JSON 파일입니다.
 
 
-> https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md<br>https://www.tensorflow.org/hub?hl=ko
+>출처: https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md<br>https://www.tensorflow.org/hub?hl=ko
